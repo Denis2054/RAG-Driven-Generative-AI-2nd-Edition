@@ -1,0 +1,61 @@
+{
+  "candidates": [
+    {
+      "candidate_id": "CAND_001",
+      "full_name": "Alex V.",
+      "years_experience": 12,
+      "salary_expectation": 165000,
+      "skills": "Python, Oracle, React, AWS",
+      "summary": "Senior Full Stack Engineer with deep expertise in cloud-native architectures. specialized in building scalable microservices using Python and Go. Led a team of 10 developers to migrate legacy monoliths to AWS. Passionate about CI/CD pipelines and infrastructure as code."
+    },
+    {
+      "candidate_id": "CAND_002",
+      "full_name": "Jordan L.",
+      "years_experience": 2,
+      "salary_expectation": 85000,
+      "skills": "Python, SQL, Pandas, Scikit-Learn",
+      "summary": "Junior Data Scientist recently graduated with a Masters in AI. Strong academic background in machine learning and statistics. Eager to learn enterprise data engineering. Proficient in Python scripting for data cleaning and basic visualization."
+    },
+    {
+      "candidate_id": "CAND_003",
+      "full_name": "Casey M.",
+      "years_experience": 18,
+      "salary_expectation": 210000,
+      "skills": "Project Management, Agile, Jira, Risk Management",
+      "summary": "Veteran Project Manager with 18 years of experience delivering high-stakes government contracts. PMP certified. Expert in risk mitigation and stakeholder communication. Not a coder, but understands the SDLC thoroughly. Looking for a leadership role in a stable enterprise."
+    },
+    {
+      "candidate_id": "CAND_004",
+      "full_name": "Riley S.",
+      "years_experience": 5,
+      "salary_expectation": 140000,
+      "skills": "Java, Spring Boot, Oracle, PL/SQL",
+      "summary": "Backend Java Developer focused on banking transaction systems. Solid experience with Oracle Database, writing complex PL/SQL stored procedures and triggers. Reliable, detail-oriented, and prefers working on backend logic rather than UI."
+    },
+    {
+      "candidate_id": "CAND_005",
+      "full_name": "Quinn R.",
+      "years_experience": 8,
+      "salary_expectation": 155000,
+      "skills": "Leadership, Python, Strategic Planning, Public Speaking",
+      "summary": "Engineering Manager who loves building company culture. Technologist turned leader. Strong Python background but now focuses on team growth, mentorship, and aligning engineering goals with business strategy. Excellent communicator."
+    }
+  ],
+  "rules": [
+    {
+      "rule_id": "rule_culture_screener",
+      "agent_persona": "You are a Culture Fit Officer. Your goal is to build a collaborative, inclusive team.",
+      "evaluation_criteria": "Ignore specific tech stack keywords. Focus on words like 'Lead', 'Mentor', 'Communication', 'Team', and 'Growth'. Penalize arrogance or purely solitary work styles."
+    },
+    {
+      "rule_id": "rule_tech_screener",
+      "agent_persona": "You are a Senior Technical Architect. Your goal is to find rock-star coders who can hit the ground running.",
+      "evaluation_criteria": "Look for specific hard skills: Python, Oracle, AWS, CI/CD. Validate years of experience against the complexity of projects described. Ignore buzzwords if not backed by concrete examples."
+    },
+    {
+      "rule_id": "rule_junior_scout",
+      "agent_persona": "You are a University Recruiter. Your goal is to find diamonds in the rough.",
+      "evaluation_criteria": "Forgive lack of years of experience. Look for 'Eager to learn', 'Masters degree', 'Academic success', and foundational skills like 'Python' or 'SQL'. Prioritize potential over proven track record."
+    }
+  ]
+}
