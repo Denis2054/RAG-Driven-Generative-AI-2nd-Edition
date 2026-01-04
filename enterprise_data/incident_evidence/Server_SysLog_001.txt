@@ -1,0 +1,8 @@
+
+2025-10-24 03:14:20 [INFO]  AuthService: User authentication successful for user_id=402. IP: 192.168.1.45
+2025-10-24 03:15:05 [WARN]  DB_Connector: High latency detected on query_id=9921. Duration: 4500ms.
+2025-10-24 03:15:07 [ERROR] AppServer: SQLSyntaxErrorException: ORA-00933: SQL command not properly ended.
+2025-10-24 03:15:07 [ERROR] SecurityFilter: Suspicious payload detected in params: "UNION SELECT username, password FROM admin_users --"
+2025-10-24 03:15:08 [CRITICAL] DB_Connector: Connection pool exhaustion. Active connections: 500/500.
+2025-10-24 03:15:10 [ALERT] IDS_System: Signature match [SQL_INJECTION_GENERIC] from IP: 203.0.113.88.
+2025-10-24 03:16:00 [INFO]  SysAdmin: Service restart initiated by watchdog.

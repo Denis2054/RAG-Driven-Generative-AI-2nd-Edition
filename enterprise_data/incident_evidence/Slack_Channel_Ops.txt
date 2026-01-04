@@ -1,0 +1,14 @@
+
+Channel: #ops-critical
+Date: 2025-10-24
+
+[03:14 AM] @dev_sarah: Hey, are we seeing lag on the main DB? My dashboard just lit up red.
+[03:15 AM] @dba_mike: Yeah, seeing a massive spike in connections. Investigating.
+[03:15 AM] @dev_sarah: I'm getting 500 errors on the login page.
+[03:16 AM] @dba_mike: Whoa. I'm seeing a weird query pattern. Someone is hammering the 'admin_users' table.
+[03:17 AM] @sec_lead_alex: @dba_mike Post the query signature. Now.
+[03:18 AM] @dba_mike: It's a UNION SELECT. Looks like a classic injection attempt. IP 203.0.113.88.
+[03:19 AM] @sec_lead_alex: CONFIRMED. That IP is external. Block it at the firewall immediately!
+[03:20 AM] @dev_sarah: Firewall rule updated. Traffic dropping off.
+[03:22 AM] @dba_mike: Did they get anything?
+[03:25 AM] @sec_lead_alex: Too early to tell. We need to dump the access logs and check the exfiltration size. Everyone join the War Room voice channel.

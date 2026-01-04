@@ -1,0 +1,20 @@
+
+Software Release Notes: Hotfix v2.4.1
+Release Date: 2025-10-24
+Status: DEPLOYED TO STAGING
+
+Summary:
+This emergency hotfix addresses a critical security vulnerability in the user authentication module.
+
+Changelog:
+- Security Fix (CVE-2025-9921): Patched a SQL Injection vulnerability in `AdminLoginController.java`.
+- Update Detail: Implemented prepared statements for all database queries involving user input. Removed legacy string concatenation logic in the login query builder.
+- Performance: Added connection pool throttling to prevent resource exhaustion during high-load events (or DoS attempts).
+
+Verification:
+- Penetration test suite `Sim_Attack_SQLi` passed.
+- Regression testing on User Login module passed.
+
+Deployment Schedule:
+- Staging: Complete.
+- Production: Scheduled for 04:00 AM maintenance window (pending final approval).

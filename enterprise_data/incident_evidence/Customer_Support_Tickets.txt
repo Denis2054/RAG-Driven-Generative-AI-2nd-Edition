@@ -1,0 +1,7 @@
+
+Ticket_ID,Timestamp,Customer_ID,Subject,Message
+TKT-9001,2025-10-24 03:16:00,Cust_554,URGENT: 500 Error,I cannot log in to the admin panel. Getting a blank screen with 'Internal Server Error'.
+TKT-9002,2025-10-24 03:20:00,Cust_112,Is the system down?,My dashboard isn't loading data. I have payroll to run!
+TKT-9003,2025-10-24 03:25:00,Cust_899,Suspicious Email?,I just heard from a colleague about a weird email asking for login info. Did we get hacked?
+TKT-9004,2025-10-24 03:45:00,Cust_554,Still broken,Any ETA on the fix? This downtime is costing us money.
+TKT-9005,2025-10-24 04:05:00,Cust_300,Login Works But Slow,I managed to log in finally, but everything is crawling. Is it safe to use?

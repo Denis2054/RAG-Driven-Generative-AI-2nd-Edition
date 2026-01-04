@@ -1,0 +1,14 @@
+
+To the "Admins" of this secure facility:
+
+You really should sanitize your inputs.
+Did you think a simple firewall would stop us?
+Your 'admin_users' table was wide open. We walked right in.
+
+We have your customer list. We have the hashes.
+We are generous, though. We will give you 24 hours.
+Send 50 BTC to the wallet address below, or we release the full dump to the public.
+
+Tick tock.
+
+- The NullPointer Crew

@@ -1,0 +1,27 @@
+
+SECURITY INCIDENT REPORT: PHISHING VECTOR ANALYSIS
+ID: PHISH-2025-882
+Date: 2025-10-23
+Severity: HIGH
+
+Overview:
+The Security Operations Center (SOC) detected a targeted phishing campaign affecting the Finance and Admin departments.
+
+Email Metadata:
+- Subject: "URGENT: Payroll Portal Authentication Required"
+- Sender: support@payro11-admin.com (Typosquatting detected: 'l' replaced with '1')
+- Recipient: j.smith@company.com (User ID: 402)
+- Timestamp Received: 2025-10-23 14:45:00
+
+Payload Analysis:
+The email contained a link to a credential harvesting site hosting a fake SSO login page.
+URL: http://secure-login-portal-882.xz/auth
+
+Incident Correlation:
+User 402 clicked the link at 14:48:00.
+SOC observed a successful login from an unrecognized device (IP 203.0.113.88) approximately 12 hours later, coinciding with the SQL injection attempts recorded in System Logs.
+
+Status:
+- Malicious domain blocked.
+- User 402 account locked and forced password reset.
+- Remedial training assigned to affected user.

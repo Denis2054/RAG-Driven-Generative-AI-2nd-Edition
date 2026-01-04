@@ -1,0 +1,20 @@
+
+INTERNAL POLICY DOCUMENT: DATA PRIVACY & INCIDENT REPORTING
+Policy ID: LEG-COMP-005
+Effective Date: 2024-01-01
+
+1. Definition of Personal Data Breach (GDPR/CCPA):
+A breach is defined as any security incident that leads to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed.
+
+2. Reporting Timelines:
+- Internal: All potential breaches must be reported to the Data Protection Officer (DPO) within 1 hour of detection.
+- External (Regulatory): In the event of a confirmed breach involving unencrypted personal data (names, emails, IDs), the organization must notify the relevant supervisory authority without undue delay and, where feasible, not later than 72 hours after having become aware of it.
+
+3. Classification of Data Sensitivity:
+- Tier 1 (Public): Marketing materials, press releases. (No reporting required).
+- Tier 2 (Internal): Slack logs, internal memos. (Internal reporting only).
+- Tier 3 (Confidential): Customer names, email addresses, support tickets. (Requires Regulatory Reporting if leaked).
+- Tier 4 (Restricted): Passwords, Financial Data, Biometrics. (Requires Immediate Regulatory & Customer Notification).
+
+4. Incident Response Protocol:
+In the event of a Tier 3 or Tier 4 breach, Legal Counsel must approve all external communications to ensure liability is minimized while maintaining compliance.
