@@ -1,5 +1,5 @@
 # RAG-Driven Generative AI 2nd Edition 
-# Copyright 2026, Denis Rothman
+### Copyright 2026, Denis Rothman
 
 <a href="RAG-Driven-Generative-AI">
   <img 
@@ -9,6 +9,8 @@
   />
 </a>
 
+⚠️ **IMPORTANT:** Do **NOT** modify any notebook in this repository without the author's permission.
+
 | Chapters | Colab | Kaggle |  Studio Lab |
 | :-------- | :-------- | :------- | :-------- |
 | **Chapter 1: Why Retrieval Augmented Generation(RAG)?** | | | |
@@ -17,3 +19,8 @@
 | <ul><li>1_DBA_Oracle_Management.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter02/1_DBA_Oracle_Management.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
 | <ul><li>2_Data_Ingestion_Oracle.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter02/2_Data_Ingestion_Oracle.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
 | <ul><li>3_LLM Augmented_Query.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter02/3_LLM_Augmented_Query.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
+| **Chapter 3: RAG Embeddings in Oracle Vector Stores** | | | |
+| <ul><li>1_DBA_Oracle_Management_V2.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter03/1_DBA_Oracle_Management_V2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
+| <ul><li>2_Data_Ingestion_Oracle_DB.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter03/2_Data_Ingestion_Oracle_DB.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
+| <ul><li>3_LLM_Augmented_Hybrid_Query.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter03/3_LLM_Augmented_Hybrid_Query.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
+
