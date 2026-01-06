@@ -1,4 +1,4 @@
- **UCE(Universal Context Engine) Core Package**
+ **UCE(Universal Context Engine) Core Package**   
   **copyright 2026, Denis Rothman**
   
 The `engine.zip` archive constitutes the **UCE(Universal Context Engine) Core Package**, a modular **Agentic Reasoning Framework** designed to orchestrate complex, multi-step generative AI workflows.
