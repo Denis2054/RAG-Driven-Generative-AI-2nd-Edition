@@ -27,5 +27,5 @@
 | <ul><li>Unified_Agents_Unit_Test.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter04/Unified_Agents_Unit_Test.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
 | **Chapter 5: Building A Universal Context Engine** | | | |
 | <ul><li>Universal_Context_Engine_Converged_Edition.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter05/Universal_Context_Engine_Converged_Edition.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
-| **Chapter 6: Operationalizing the Universal Context Engine** | | | |
+| **Chapter 6: Operationalizing the Universal Context Engine(quality test pending for non-compliant prompts)** | | | |
 | <ul><li>Universal_Context_Engine_Converged_Edition.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter06/Universal_Context_Engine_UI_Oracle.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
