@@ -29,7 +29,7 @@
 | <ul><li>Universal_Context_Engine_Converged_Edition.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter05/Universal_Context_Engine_Converged_Edition.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
 | **Chapter 6: Operationalizing the Universal Context Engine** | | | |
 | <ul><li>Universal_Context_Engine_Converged_Edition.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter06/Universal_Context_Engine_UI_Oracle.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
-| **Chapter 07: When and how to Fine-Tune a Generative AI model** | | | |
-| <ul><li>Fine_tuning_OpenAI_GPT-4o-mini.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter07/Fine_tuning_OpenAI_GPT-4o-mini.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
+| **Chapter 7: When and how to Fine-Tune a Generative AI model** | | | |
+| <ul><li>Fine_tuning_OpenAI_GPT-4o-mini.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter07/Fine_tuning_OpenAI_GPT_4o_mini.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
 | **Chapter 10: The Hyper-Contextual Recruiter with Oracle Spatial and Graph** | | | |
 | <ul><li>Oracle_Spatial_Graph.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter10/Oracle_Spatial_Graph.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
