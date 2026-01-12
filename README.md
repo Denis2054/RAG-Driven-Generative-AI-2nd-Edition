@@ -36,6 +36,7 @@
 | <ul><li>Adaptive_RAG.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter08/Adaptive_RAG.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
 | **Chapter 9: Building a Conversational RAG Video Store Agent** | | | |
 | <ul><li>Video_dataset_visualization.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter09/Video_dataset_visualization.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
+| <ul><li>Conversational_RAG_Video_Store_Agent.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter09/Conversational_RAG_Video_Store_Agent.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
 | **Chapter 10: The Hyper-Contextual Recruiter with Oracle Spatial and Graph** | | | |
 | <ul><li>Oracle_Spatial_Graph.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter09/Oracle_Spatial_Graph.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
 | **The Oracle DBA Console** | | | |
