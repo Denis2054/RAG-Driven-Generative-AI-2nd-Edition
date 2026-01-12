@@ -38,3 +38,7 @@
 | <ul><li>Video_dataset_visualization.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter09/Video_dataset_visualization.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
 | **Chapter 10: The Hyper-Contextual Recruiter with Oracle Spatial and Graph** | | | |
 | <ul><li>Oracle_Spatial_Graph.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter09/Oracle_Spatial_Graph.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
+| **The Oracle DBA Console** | | | |
+The Oracle DBA Console serves as the Control Center for your Oracle 23ai Hybrid Vector Database. It encompasses the table management of the entire GitHub repository.
+| <ul><li>Oracle_DBA_Console.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/commons/Oracle_DBA_Console.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
+
