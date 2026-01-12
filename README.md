@@ -12,7 +12,8 @@
   />
 </a>
 
-⚠️🟥  **IMPORTANT:** Do **NOT** modify any notebook or file in this repository without the author's permission.
+⚠️🟥  **IMPORTANT:** Do **NOT** modify any notebook or file in this repository without the author's permission.    
+                      Modifying a file could compromise the integrity of the repository.
 
 | Chapters | Colab | Kaggle |  Studio Lab |
 | :-------- | :-------- | :------- | :-------- |
