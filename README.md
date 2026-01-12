@@ -1,6 +1,9 @@
 # RAG-Driven Generative AI 2nd Edition 
 ### Copyright 2026, Denis Rothman
 
+⚠️🟥  **IMPORTANT:** Do **NOT** modify any notebook or file in this repository without the author's permission.
+
+
 <a href="RAG-Driven-Generative-AI">
   <img 
     width="640px"
@@ -9,7 +12,7 @@
   />
 </a>
 
-⚠️ **IMPORTANT:** Do **NOT** modify any notebook in this repository without the author's permission.
+⚠️🟥  **IMPORTANT:** Do **NOT** modify any notebook or file in this repository without the author's permission.
 
 | Chapters | Colab | Kaggle |  Studio Lab |
 | :-------- | :-------- | :------- | :-------- |
