@@ -75,9 +75,9 @@ Chapter09/
 ## File Statistics
 
 - **Total Files**: 266
-- **Total Directories**: 5
+- **Total Directories**: 5 (including root)
 - **Video Files**: 22 MP4 files (213M total)
-- **CSV Comment Files**: 21 files (552K total)
+- **CSV Comment Files**: 21 files (552K total) - Note: AI_Professor_Introduces_New_Course.mp4 does not have a corresponding CSV file
 - **Frame Images**: 222 JPG files extracted from basketball3.mp4
 
 ## Content Categories
