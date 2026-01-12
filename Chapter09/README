@@ -1,1 +1,22 @@
-r
+# Chapter 09 - Video Frame Analysis
+
+## Overview
+This chapter contains video analysis data including extracted frames and frame-by-frame comments.
+
+## Directory Structure
+
+### frames/
+Contains extracted frames from videos.
+
+#### basketball3/
+- **Total Files**: 222 JPEG files
+- **Frame Range**: frame_0.jpg to frame_221.jpg
+- **Description**: Extracted frames from basketball3.mp4 video
+
+### comments/
+Contains CSV files with frame-by-frame analysis and comments for each video.
+
+- basketball3.mp4.csv: 53 annotated frames from the basketball3 video
+
+### videos/
+Directory for source video files.
