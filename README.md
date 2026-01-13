@@ -9,8 +9,10 @@
   />
 </a>
 
-⚠️🟥  **IMPORTANT:** Do **NOT** modify any notebook or file in this repository without the author's permission.    
-                      Modifying a file could compromise the integrity of the repository.
+⚠️🟥  **IMPORTANT NOTE FOR THE REVIEWERS:** Do **NOT** modify any notebook or file in this repository without the author's permission.    
+                      a)Modifying a file could compromise the integrity of the repository.   
+                      b)You may have run the OpenAI pip install first before another cell due to possible dependency conflicts, forcing a restart.    
+                      c)The GitHub private token(pt) and related code to it will be removed when the repository is made public.    
 
 | Chapters | Colab | Kaggle |  Studio Lab |
 | :-------- | :-------- | :------- | :-------- |
