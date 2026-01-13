@@ -88,7 +88,7 @@ DDL_CATALOG = {
             )
             """
         }
-    ],  # <--- THIS COMMA WAS MISSING
+    ],
     "CHAPTER_10": [
         {
             "table_name": "CANDIDATE_POOL_GEO",
@@ -128,6 +128,20 @@ DDL_CATALOG = {
                 PRIMARY KEY (referrer_id, candidate_id),
                 CONSTRAINT fk_referrer FOREIGN KEY (referrer_id) REFERENCES employees(emp_id),
                 CONSTRAINT fk_candidate FOREIGN KEY (candidate_id) REFERENCES candidate_pool_geo(candidate_id)
+            )
+            """
+        }
+    ],
+    "CHAPTER_11": [
+        {
+            "table_name": "WORKLOAD_BENCHMARK",
+            "description": "Stores synthetic benchmark data for scaling performance tests.",
+            "sql": """
+            CREATE TABLE WORKLOAD_BENCHMARK (
+                session_id VARCHAR2(50),
+                complexity_score NUMBER,
+                operation_vector VECTOR(3, FLOAT32),
+                payload_data CLOB
             )
             """
         }
