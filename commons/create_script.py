@@ -59,7 +59,7 @@ DDL_CATALOG = {
             )
             """
         }
-    ], 
+    ],
     "CHAPTER_9": [
         {
             "table_name": "MEDIA_ASSETS",
@@ -88,8 +88,8 @@ DDL_CATALOG = {
             )
             """
         }
-    ]
-       "CHAPTER_10": [
+    ],  # <--- THIS COMMA WAS MISSING
+    "CHAPTER_10": [
         {
             "table_name": "CANDIDATE_POOL_GEO",
             "description": "Spatial table: Copy of Candidate Pool with added Geolocation data.",
@@ -132,6 +132,4 @@ DDL_CATALOG = {
             """
         }
     ]
- }
- 
 }
