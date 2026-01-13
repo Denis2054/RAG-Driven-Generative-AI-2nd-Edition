@@ -10,7 +10,7 @@ The chapter includes:
 - Video dataset visualization
 - Processing and analyzing AI-generated sports and activity videos
 - Frame extraction from videos for analysis
-- CSV-based comment/metadata files for each video
+- CSV-based comment/metadata files for each video with Human Feedback (HF) 
 - Interactive notebook for exploring the video dataset
 
 ## Directory Structure
