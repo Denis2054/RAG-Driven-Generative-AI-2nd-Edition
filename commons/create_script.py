@@ -89,4 +89,49 @@ DDL_CATALOG = {
             """
         }
     ]
+       "CHAPTER_10": [
+        {
+            "table_name": "CANDIDATE_POOL_GEO",
+            "description": "Spatial table: Copy of Candidate Pool with added Geolocation data.",
+            "sql": """
+            CREATE TABLE candidate_pool_geo (
+                candidate_id VARCHAR2(50) PRIMARY KEY,
+                full_name VARCHAR2(100),
+                summary CLOB,
+                skills VARCHAR2(1000),
+                years_experience NUMBER,
+                salary_expectation NUMBER,
+                resume_vector VECTOR(1536),
+                home_location SDO_GEOMETRY
+            )
+            """
+        },
+        {
+            "table_name": "EMPLOYEES",
+            "description": "Graph Vertex: Internal employees who can refer candidates.",
+            "sql": """
+            CREATE TABLE employees (
+                emp_id VARCHAR2(50) PRIMARY KEY,
+                name VARCHAR2(100),
+                role VARCHAR2(100)
+            )
+            """
+        },
+        {
+            "table_name": "REFERRALS",
+            "description": "Graph Edge: Links Employees to Candidates.",
+            "sql": """
+            CREATE TABLE referrals (
+                referrer_id VARCHAR2(50),
+                candidate_id VARCHAR2(50),
+                relationship VARCHAR2(50),
+                PRIMARY KEY (referrer_id, candidate_id),
+                CONSTRAINT fk_referrer FOREIGN KEY (referrer_id) REFERENCES employees(emp_id),
+                CONSTRAINT fk_candidate FOREIGN KEY (candidate_id) REFERENCES candidate_pool_geo(candidate_id)
+            )
+            """
+        }
+    ]
+ }
+ 
 }
