@@ -7,4 +7,4 @@ This framework provides the structural skeleton that governs the application's c
 
 * **Autonomous Orchestration:** It contains the `context_engine`, which manages the full lifecycle of a user request—from goal analysis and dynamic planning (via the `planner`) to step-by-step execution and tracing.
 * **Capability Abstraction:** The framework decouples *reasoning* from *infrastructure*. Through its `AgentRegistry`, it dynamically injects dependencies (like `OracleManager` or `Pinecone` clients) into agents, allowing the same reasoning logic to switch seamlessly between cloud and enterprise backends.
-* **Standardized Interoperability:** It enforces a strictly typed "Model Context Protocol" (MCP) for data exchange, ensuring that diverse agents—whether retrieving unstructured vector data or structured SQL records—can communicate within a unified execution plan.
+* **Standardized Interoperability:** It enforces a strictly typed **Model Context Protocol (MCP)** for data exchange, ensuring that diverse agents—whether retrieving unstructured vector data or structured SQL records—can communicate within a unified execution plan.
