@@ -14,7 +14,8 @@
                       b)You may have run the OpenAI pip install first before another cell due to possible dependency conflicts, forcing a restart.    
                       c)The GitHub private token(pt) and related code to it will be removed when the repository is made public.   
 
-⚠️🟥 **During review, some functions will be hardened, although this repository remains educational. For example, a check will verify the behavior of a notebook that is run twice in a row over existing tables.
+⚠️🟥 February 7, 2026 note. Oracle's wallet moved to mTLS requiring an update. Also the Oracle account had to be upgraded after the trial period for the vector tables. New functions were added to minimize cost. As such, all notebooks will be run and reviewed during the review phase for a final check.
+      
 | Chapters | Colab | Kaggle |  Studio Lab |
 | :-------- | :-------- | :------- | :-------- |
 | **Chapter 1: Why Retrieval Augmented Generation(RAG)?** | | | |
