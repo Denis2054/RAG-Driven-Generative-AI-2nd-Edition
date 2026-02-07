@@ -14,13 +14,12 @@
                       b)You may have run the OpenAI pip install first before another cell due to possible dependency conflicts, forcing a restart.    
                       c)The GitHub private token(pt) and related code to it will be removed when the repository is made public.   
 
-⚠️🟥 **During review, some functions will be hardened, although this repository remains educational hence the notes that accompany each chapter below.
+⚠️🟥 **During review, some functions will be hardened, although this repository remains educational. For example, a check will verify the behavior of a notebook that is run twice in a row over existing tables.
 | Chapters | Colab | Kaggle |  Studio Lab |
 | :-------- | :-------- | :------- | :-------- |
 | **Chapter 1: Why Retrieval Augmented Generation(RAG)?** | | | |
 | <ul><li>RAG_Overview_db.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter01/RAG_Overview_db.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
 | **Chapter 2: RAG Embeddings in Oracle Vector Stores** | | | |
-Note: Check when a notebook is run twice in a row over existing tables.
 | <ul><li>1_DBA_Oracle_Management.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter02/1_DBA_Oracle_Management.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
 | <ul><li>2_Oracle_Data_Acquisition.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter02/2_Oracle_Data_Acquisition.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
 | <ul><li>3_LLM Augmented_Query.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter02/3_LLM_Augmented_Query.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
