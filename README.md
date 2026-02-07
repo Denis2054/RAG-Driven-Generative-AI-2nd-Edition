@@ -14,7 +14,7 @@
                       b)You may have run the OpenAI pip install first before another cell due to possible dependency conflicts, forcing a restart.    
                       c)The GitHub private token(pt) and related code to it will be removed when the repository is made public.   
 
-⚠️🟥 February 7, 2026 note. Oracle's wallet moved to mTLS requiring an update. Also the Oracle account had to be upgraded after the trial period for the vector tables. New functions were added to minimize cost. As such, all notebooks will be run and reviewed during the review phase for a final check.
+⚠️🟥 February 7, 2026 note. Oracle's wallet required mTLS for this repository. Also, the Oracle account had to be upgraded after the trial period for the vector tables. New functions were added to minimize cost. As such, all notebooks will be run and reviewed during the review phase for a final check, and the Oracle initialization process will be checked.
       
 | Chapters | Colab | Kaggle |  Studio Lab |
 | :-------- | :-------- | :------- | :-------- |
