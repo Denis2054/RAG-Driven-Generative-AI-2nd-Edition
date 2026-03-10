@@ -88,10 +88,10 @@ DDL_CATALOG = {
             """
         }
     ],
-    "CHAPTER_10": [
+  "CHAPTER_10": [
         {
             "table_name": "CANDIDATE_POOL_GEO",
-            "description": "Spatial + Vector shadow table.",
+            "description": "Spatial + Vector shadow table (FLOAT32).",
             "sql": """
             CREATE TABLE candidate_pool_geo (
                 candidate_id VARCHAR2(50) PRIMARY KEY,
@@ -100,13 +100,36 @@ DDL_CATALOG = {
                 skills VARCHAR2(1000),
                 years_experience NUMBER,
                 salary_expectation NUMBER,
-                resume_vector VECTOR(1536, FLOAT32), -- Minimal Fix: Pin to FLOAT32
+                resume_vector VECTOR(1536, FLOAT32),
                 home_location SDO_GEOMETRY
             )
             """
         },
-        { "table_name": "EMPLOYEES", "sql": "CREATE TABLE employees (emp_id VARCHAR2(50) PRIMARY KEY, name VARCHAR2(100), role VARCHAR2(100))" },
-        { "table_name": "REFERRALS", "sql": "CREATE TABLE referrals (referrer_id VARCHAR2(50), candidate_id VARCHAR2(50), relationship VARCHAR2(50), PRIMARY KEY (referrer_id, candidate_id), CONSTRAINT fk_referrer FOREIGN KEY (referrer_id) REFERENCES employees(emp_id), CONSTRAINT fk_candidate FOREIGN KEY (candidate_id) REFERENCES candidate_pool_geo(candidate_id))" }
+        {
+            "table_name": "EMPLOYEES",
+            "description": "Graph Vertex: Internal employee records.",
+            "sql": """
+            CREATE TABLE employees (
+                emp_id VARCHAR2(50) PRIMARY KEY,
+                name VARCHAR2(100),
+                role VARCHAR2(100)
+            )
+            """
+        },
+        {
+            "table_name": "REFERRALS",
+            "description": "Graph Edge: Linkage between employees and candidates.",
+            "sql": """
+            CREATE TABLE referrals (
+                referrer_id VARCHAR2(50),
+                candidate_id VARCHAR2(50),
+                relationship VARCHAR2(50),
+                PRIMARY KEY (referrer_id, candidate_id),
+                CONSTRAINT fk_referrer FOREIGN KEY (referrer_id) REFERENCES employees(emp_id),
+                CONSTRAINT fk_candidate FOREIGN KEY (candidate_id) REFERENCES candidate_pool_geo(candidate_id)
+            )
+            """
+        }
     ],
     "CHAPTER_11": [
         {
