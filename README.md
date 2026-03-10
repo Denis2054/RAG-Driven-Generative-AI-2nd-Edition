@@ -14,6 +14,8 @@
                       b)You may have run the OpenAI pip install first before another cell due to possible dependency conflicts, forcing a restart.    
                       c)The GitHub private token(pt) and related code to it will be removed when the repository is made public.   
 
+⚠️🟥 **Technical Reviewer introduction: The implementation of this repository utilizes Oracle 23ai as a converged database, meaning it handles both high-performance vector operations and traditional relational logic within a single engine. The configuration involves DBA-level concepts and interactions that require careful interactions. Oracle DBA involves specialized concepts such as Secure Wallets and SQL Connection Pooling, that are abstracted as musch as possibleto allow you to focus on reasoning logic.
+                      
 ⚠️🟥 February 7, 2026 note. Oracle's wallet required mTLS for this repository. Also, the Oracle account had to be upgraded after the trial period for the vector tables. New functions were added to minimize cost. 
       
 | Chapters | Colab | Kaggle |  Studio Lab |
