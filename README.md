@@ -36,24 +36,18 @@ Designed for developers and architects, these blueprints transform disconnected 
 *Email sign-up and proof of purchase required
 </details>
 <details open>
-  <summary><h2>Key Learnings</summary>
+  <summary><h2>Key Learnings</h2></summary>
 <ul>
-
-<li>Implement vector search and hybrid SQL–vector retrieval using Oracle Database 23ai</li>
-
-<li>Implement native GraphRAG, Spatial-RAG, and converged retrieval</li>
-
-<li>Build AI agents and orchestration systems that coordinate multiple retrieval workflows</li>
-
-<li>Improve model accuracy using human feedback, adaptive logic, and fine-tuning</li>
-
-<li>Build multimodal video pipelines for visual and semantic search</li>
-
-<li>Optimize high-performance AI workloads on Oracle Cloud and Exadata</li>
-
+<li>Architect Sovereign AI systems that bring intelligence directly to the data within Oracle Database 23ai, eliminating data extraction risk</li>
+<li>Implement Dual Path RAG — synchronising unstructured vector semantics with deterministic structured SQL to defeat hallucinations and data poisoning simultaneously</li>
+<li>Build MAS-RAG pipelines: a Universal Context Engine with Planner, Agent Registry, and MCP-standardised sovereign agents that replace external vector databases</li>
+<li>Engineer Hybrid Adaptive RAG — a dynamic inference-time router that switches between model reasoning, RAG retrieval, and expert human feedback injection based on cosine similarity scores and user rankings</li>
+<li>Construct a converged hyper-query that fuses vector similarity, Oracle Spatial (SDO_GEOMETRY), and SQL Property Graph (SQL/PGQ) traversal in a single execution context with zero data movement</li>
+<li>Build a multimodal video RAG pipeline with a version-controlled Schema Registry, RLHF-curated metadata, and semantic vector search over segmented visual assets</li>
+<li>Scale MAS-RAG workloads using Oracle Exadata AI Smart Scan to eliminate the data movement tax on high-dimensional vector distance calculations</li>
+<li>Deploy an Autonomous Database Architect agent operating on a Perceive–Plan–Act–Audit loop, capable of generating Oracle DDL and orchestrating ETL Workers from raw unstructured enterprise data</li>
 </ul>
-
-  </details>
+</details>
 
 <details open>
   <summary><h2>Chapters</summary>
