@@ -129,7 +129,20 @@ To get the most out of this book, ensure you have the following background and s
 <details>
   <summary><h2>Get to know Author</h2></summary>
 
-_Denis Rothman_ graduated from Sorbonne University and Paris-Diderot University, designing one of the very first word2matrix patented embedding and patented AI conversational agents. He began his career authoring one of the first AI cognitive Natural Language Processing (NLP) chatbots applied as an automated language teacher for Moet et Chandon and other companies. He authored an AI resource optimizer for IBM and apparel producers. He then authored an Advanced Planning and Scheduling (APS) solution used worldwide.
+*Denis Rothman* has been designing and deploying AI systems for more than three decades.
+After graduating from Sorbonne University and Paris Cité University, he taught at Panthéon
+Sorbonne University, where he registered an early patent for word tokenization and encoding,
+followed by a patent for a conversational human–machine system. Since then, he has created
+pioneering AI applications ranging from cognitive NLP chatbots for language learning to
+aerospace AI solutions, global supply chain optimizers, and advanced planning and scheduling
+systems used worldwide.
+An early advocate of explainable AI, Denis has consistently built interpretable interfaces and
+explanation data into complex projects across aerospace, apparel, and automotive industries.
+His belief that knowledge is only complete when it is shared has led him to author multiple
+books on AI, distilling his hands-on expertise into algorithms, frameworks, and platforms.
+Model- and platform-agnostic, Denis combines theory with pragmatic, full-stack
+development, providing not just concepts but also working code that readers can experiment
+with and build upon
 
 
 
