@@ -138,9 +138,9 @@ _Denis Rothman_ graduated from Sorbonne University and Paris-Diderot University,
   <summary><h2>Other Related Books</h2></summary>
 <ul>
 
-  <li><a href="https://www.packtpub.com/en-us/product/context-engineering-for-multi-agent-systems-first-edition/9781806690053">Context Engineering for Multi-Agent Systems, First Edition</a></li>
+<li><a href="https://www.amazon.com/dp/1806690055">Context Engineering for Multi-Agent Systems, First Edition</a></li>
+<li><a href="https://www.amazon.com/dp/B0FDQJRB7Q">Building Business‑Ready Generative AI Systems</a></li>
 
-  <li><a href="https://www.packtpub.com/en-us/product/building-ai-agents-with-llms-rag-and-knowledge-graphs-first-edition/9781835087060">Building AI Agents with LLMs, RAG, and Knowledge Graphs, First Edition</a></li>
 
 </ul>
 
