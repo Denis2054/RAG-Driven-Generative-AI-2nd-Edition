@@ -99,6 +99,7 @@ Designed for developers and architects, these blueprints transform disconnected 
 
 <details open>
   <summary><h2>Requirements for this book</summary>
+
 ## Technical Requirements
 
 To get the most out of this book, ensure you have the following background and setup:
