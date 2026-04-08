@@ -1,27 +1,25 @@
-<h4 align="center">UNDER CONSTRUCTION: WILL BE AVAILABLE 09 APRIL 2026 AT 13:00 GMT</h4>
-<h1 align="center">
+<h4 align="left">UNDER CONSTRUCTION: WILL BE AVAILABLE 09 APRIL 2026 AT 13:00 GMT</h4>
+<h1 align="left">
 RAG-Driven Generative AI, Second Edition</h1>
 
-<h2 align="center">
+<h2 align="left">
 Build MAS-RAG with DualRAG, GraphRAG,<br>
 multimodal video pipelines, and Oracle Database 23ai
 </h2>
 
-<p align="center">This is the code repository for <a href="rag-driven-generative-ai-second-edition">RAG-Driven Generative AI, Second Edition</a>.</p>
-
 <br clear="left"/>
-<p align="center">Copyright 2025-2026, Denis Rothman. <strong>Last updated: March 14, 2026</strong></p>
-<p align="center">See the <a href="./CHANGELOG.md">Changelog</a> for updates, fixes, and upgrades(past, present, coming).</p>
+<p align="left">Copyright 2025-2026, Denis Rothman. <strong>Last updated: March 14, 2026</strong></p>
+<p align="left">See the <a href="./CHANGELOG.md">Changelog</a> for updates, fixes, and upgrades(past, present, coming).</p>
 
-<p align="center">
+<p align="left">
    <a href="https://packt.link/I1tSU" alt="Discord" title="Learn more on the Discord server"><img width="32px" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://packt.link/free-ebook/9781807424954"><img width="32px" alt="Free PDF" title="Free PDF with purchased book" src="https://cdn-icons-png.flaticon.com/512/4726/4726010.png"/></a>
+<!--   <a href="https://packt.link/free-ebook/9781807424954"><img width="32px" alt="Free PDF" title="Free PDF with purchased book" src="https://cdn-icons-png.flaticon.com/512/4726/4726010.png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://packt.link/gbp/9781807424954"><img width="32px" alt="Graphic Bundle" title="Graphic Bundle" src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png"/></a>
+<a href="https://packt.link/gbp/9781807424954"><img width="32px" alt="Graphic Bundle" title="Graphic Bundle" src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.amazon.com/RAG-Driven-Generative-retrieval-generation-LlamaIndex/dp/1836200919/ref=tmm_pap_swatch_0"><img width="32px" alt="Amazon" title="Get your copy" src="https://cdn-icons-png.flaticon.com/512/15466/15466027.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://www.amazon.com/RAG-Driven-Generative-retrieval-generation-LlamaIndex/dp/1836200919/ref=tmm_pap_swatch_0"><img width="32px" alt="Amazon" title="Get your copy" src="https://cdn-icons-png.flaticon.com/512/15466/15466027.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;</p> -->
 </p>
 <details open>
   <summary><h2>About the book(coming by end of April 2026, stay tuned!) </h2></summary>
