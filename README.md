@@ -17,7 +17,7 @@ Denis Rothman</p>
 <p align="center">
    <a href="https://packt.link/I1tSU" alt="Discord" title="Learn more on the Discord server"><img width="32px" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://packt.link/free-ebook/9781807424954"><img width="32px" alt="Free PDF" title="Free PDF" src="https://cdn-icons-png.flaticon.com/512/4726/4726010.png"/></a>
+  <a href="https://packt.link/free-ebook/9781807424954"><img width="32px" alt="Free PDF" title="Free PDF with purchased book" src="https://cdn-icons-png.flaticon.com/512/4726/4726010.png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://packt.link/gbp/9781807424954"><img width="32px" alt="Graphic Bundle" title="Graphic Bundle" src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -40,10 +40,6 @@ Designed for enterprise AI architects and senior developers proficient in Python
 
 </details>
 
-
-*Email sign-up and proof of purchase required
-
-
 <details open>
   <summary><h2>Key Learnings</h2></summary>
 <ul>
@@ -58,11 +54,8 @@ Designed for enterprise AI architects and senior developers proficient in Python
 </ul>
 </details>
 
-
-I also tightened "Scale MAS-RAG workloads using..." to **RAGOps at scale:** to keep the label/description pattern consistent with the others — let me know if you prefer the original phrasing.
-
 <details open>
-  <summary><h2>Chapters</summary>
+<summary><h2>Chapters</h2></summary>
 
 
 | Chapters | Colab | Kaggle | Studio Lab |
@@ -108,7 +101,7 @@ The Oracle DBA Console serves as the Control Center for the Oracle 23ai Hybrid V
 
 
 <details open>
-  <summary><h2>Requirements for this book</summary>
+<summary><h2>Requirements for this book</h2></summary>
 
 ## Technical Requirements
 
@@ -134,7 +127,7 @@ To get the most out of this book, ensure you have the following background and s
 
 
 <details>
-  <summary><h2>Get to know Author</h2></summary>
+<summary><h2>Get to know the Author</h2></summary>
 
 *Denis Rothman* has been designing and deploying AI systems for more than three decades.
 After graduating from Sorbonne University and Paris Cité University, he taught at Panthéon
@@ -151,6 +144,7 @@ Model- and platform-agnostic, Denis combines theory with pragmatic, full-stack
 development, providing not just concepts but also working code that readers can experiment
 with and build upon
 
+
 </details>
 <details>
   <summary><h2>Other Related Books</h2></summary>
@@ -163,5 +157,3 @@ with and build upon
 </details>
 
 
-
-</details>
