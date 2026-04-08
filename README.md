@@ -1,3 +1,6 @@
+
+#Under construction. Will be available on April 10,2026.
+
 # RAG-Driven Generative AI 2nd Edition 
 ### Copyright 2026, Denis Rothman
 
