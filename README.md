@@ -10,9 +10,9 @@ multimodal video pipelines, and Oracle Database 23ai
 
 <p align="center">This is the code repository for <a href="rag-driven-generative-ai-second-edition">RAG-Driven Generative AI, Second Edition</a>.</p>
 
-
-<p align="center">
-Denis Rothman</p>
+<br clear="left"/>
+<p align="center">Copyright 2025-2026, Denis Rothman. <strong>Last updated: March 14, 2026</strong></p>
+<p align="center">See the <a href="./CHANGELOG.md">Changelog</a> for updates, fixes, and upgrades(past, present, coming).</p>
 
 <p align="center">
    <a href="https://packt.link/I1tSU" alt="Discord" title="Learn more on the Discord server"><img width="32px" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif"/></a>
@@ -25,7 +25,7 @@ Denis Rothman</p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <details open>
-  <summary><h2>About the book</h2></summary>
+  <summary><h2>About the book(coming by end of April 2026, stay tuned!) </h2></summary>
 <a href="https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200901">
 <img src="https://content.packt.com/B37714/cover_image_small.jpg" alt="RAG-Driven Generative AI, Second Edition" height="256px" align="right">
 </a>
