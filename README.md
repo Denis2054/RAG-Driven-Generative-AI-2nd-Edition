@@ -1,4 +1,4 @@
-### UNDER CONSTRUCTION: WILL BE AVAILABLE 09 APRIL 2026 AT 13:00 GMT
+<h4 align="center">UNDER CONSTRUCTION: WILL BE AVAILABLE 09 APRIL 2026 AT 13:00 GMT</h4>
 <h1 align="center">
 RAG-Driven Generative AI, Second Edition</h1>
 
