@@ -1,4 +1,4 @@
-# UNDER CONSTRUCTION: WILL BE AVAILABLE 09 APRIL 2026
+# UNDER CONSTRUCTION: WILL BE AVAILABLE 09 APRIL 2026 AT 13:00 GMT
 <h1 align="center">
 RAG-Driven Generative AI, Second Edition</h1>
 <p align="center">This is the code repository for <a href ="rag-driven-generative-ai-second-edition"> RAG-Driven Generative AI, Second Edition</a>, published by Packt.
