@@ -98,6 +98,12 @@ I also tightened "Scale MAS-RAG workloads using..." to **RAGOps at scale:** to k
 | <ul><li>The_Autonomous_Database_Architect.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter12/The_Autonomous_Database_Architect.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter12/The_Autonomous_Database_Architect.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter12/The_Autonomous_Database_Architect.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
 | **The Oracle DBA Console** | | | |
 | <ul><li>Oracle_DBA_Console.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/commons/Oracle_DBA_Console.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/commons/Oracle_DBA_Console.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/commons/Oracle_DBA_Console.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+
+
+The Oracle DBA Console serves as the Control Center for the Oracle 23ai Hybrid Vector Database of the entire GitHub repository.
+<p align="center">
+<img src="https://github.com/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/raw/main/commons/architecture_dba.png" width="600">
+</p>
 </details>
 
 
@@ -145,8 +151,6 @@ Model- and platform-agnostic, Denis combines theory with pragmatic, full-stack
 development, providing not just concepts but also working code that readers can experiment
 with and build upon
 
-
-
 </details>
 <details>
   <summary><h2>Other Related Books</h2></summary>
@@ -155,69 +159,9 @@ with and build upon
 <li><a href="https://www.amazon.com/dp/1806690055">Context Engineering for Multi-Agent Systems, First Edition</a></li>
 <li><a href="https://www.amazon.com/dp/B0FDQJRB7Q">Building Business‑Ready Generative AI Systems</a></li>
 
-
 </ul>
-
 </details>
 
-
-<details>
-  <summary><h2>Notes from author's end</h2></summary>
-
-⚠️🟥 Under construction. Will be available on April 10,2026.
-
-# RAG-Driven Generative AI 2nd Edition 
-### Copyright 2026, Denis Rothman
-
-<a href="RAG-Driven-Generative-AI">
-  <img 
-    width="640px"
-    alt="Converged ecosystem"
-    src="https://github.com/Denis2054/-RAG-Driven-Generative-AI-2nd-Edition-/blob/main/Chapter01/03-The%20converged%20ecosystem.svg?raw=true"
-  />
-</a>
-
-
-                      
-⚠️🟥 February 7, 2026 note. Oracle's wallet required mTLS for this repository. Also, the Oracle account had to be upgraded after the trial period for the vector tables. New functions were added to minimize cost. 
-      
-| Chapters | Colab | Kaggle |  Studio Lab |
-| :-------- | :-------- | :------- | :-------- |
-| **Chapter 1: Why Retrieval Augmented Generation(RAG)?** | | | |
-| <ul><li>RAG_Overview_db.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter01/RAG_Overview_db.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
-| **Chapter 2: RAG Embeddings in Oracle Vector Stores** | | | |
-| <ul><li>1_DBA_Oracle_Management.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter02/1_DBA_Oracle_Management.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
-| <ul><li>2_Oracle_Data_Acquisition.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter02/2_Oracle_Data_Acquisition.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
-| <ul><li>3_LLM Augmented_Query.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter02/3_LLM_Augmented_Query.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
-| **Chapter 3: Building a Live Oracle Recruiter Agent** | | | |
-| <ul><li>1_DBA_Oracle_Management_V2.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter03/1_DBA_Oracle_Management_V2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
-| <ul><li>2_Data_Ingestion_Oracle_DB.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter03/2_Data_Ingestion_Oracle_DB.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
-| <ul><li>3_LLM_Augmented_Hybrid_Query.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter03/3_LLM_Augmented_Hybrid_Query.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
-| **Chapter 4: Building Sovereign Enterprise Agents?** | | | |
-| <ul><li>Unified_Agents_Unit_Test.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter04/Unified_Agents_Unit_Test.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
-| **Chapter 5: Building A Universal Context Engine** | | | |
-| <ul><li>Universal_Context_Engine_Converged_Edition.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter05/Universal_Context_Engine_Converged_Edition.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
-| **Chapter 6: Operationalizing the Universal Context Engine** | | | |
-| <ul><li>Universal_Context_Engine_UI_Oracle.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter06/Universal_Context_Engine_UI_Oracle.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
-| **Chapter 7: When and how to Fine-Tune a Generative AI model** | | | |
-| <ul><li>Fine_tuning_OpenAI_GPT-4o-mini.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter07/Fine_tuning_OpenAI_GPT_4o_mini.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
-| **Chapter 8: Boosting RAG Performance with Expert Human Feedback** | | | |
-| <ul><li>Adaptive_RAG.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter08/Adaptive_RAG.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
-| **Chapter 9: Building a Conversational RAG Video Store Agent** | | | |
-| <ul><li>Video_dataset_visualization.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter09/Video_dataset_visualization.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
-| <ul><li>Conversational_RAG_Video_Store_Agent.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter09/Conversational_RAG_Video_Store_Agent.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
-| **Chapter 10: The Hyper-Contextual Recruiter with Oracle Spatial and Graph** | | | |
-| <ul><li>Oracle_Spatial_Graph.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter10/Oracle_Spatial_Graph.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
-| **Chapter 11: Scaling AI Workloads with Oracle Exadata** | | | |
-| <ul><li>Scaling_AI_Workloads_Oracle_Exadata.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter11/Scaling_AI_Workloads_Oracle_Exadata.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br>
-| **Chapter 12: The Autonomous Database Architect** | | | |
-| <ul><li>The_Autonomous_Database_Architect.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter12/The_Autonomous_Database_Architect.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
-| **The Oracle DBA Console** | | | |
-| <ul><li>Oracle_DBA_Console.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/commons/Oracle_DBA_Console.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
-
-The Oracle DBA Console serves as the Control Center for the Oracle 23ai Hybrid Vector Database of the entire GitHub repository.
-
-![](https://github.com/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/raw/main/commons/architecture_dba.png)
 
 
 </details>
