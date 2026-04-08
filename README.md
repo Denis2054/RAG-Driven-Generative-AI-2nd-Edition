@@ -1,5 +1,5 @@
 
-#Under construction. Will be available on April 10,2026.
+⚠️🟥 Under construction. Will be available on April 10,2026.
 
 # RAG-Driven Generative AI 2nd Edition 
 ### Copyright 2026, Denis Rothman
@@ -12,12 +12,7 @@
   />
 </a>
 
-⚠️🟥  **IMPORTANT NOTE FOR THE REVIEWERS:** Do **NOT** modify any notebook or file in this repository without the author's permission.    
-                      a)Modifying a file could compromise the integrity of the repository.   
-                      b)You may have run the OpenAI pip install first before another cell due to possible dependency conflicts, forcing a restart.    
-                      c)The GitHub private token(pt) and related code to it will be removed when the repository is made public.   
 
-⚠️🟥 **Technical Reviewer introduction:** The implementation of this repository utilizes Oracle 23ai as a converged database, meaning it handles both high-performance vector operations and traditional relational logic within a single engine. The configuration involves DBA-level concepts and interactions that require *careful handling*. Oracle DBA involves specialized concepts such as Secure Wallets and SQL Connection Pooling, which are abstracted as much as possible. 
                       
 ⚠️🟥 February 7, 2026 note. Oracle's wallet required mTLS for this repository. Also, the Oracle account had to be upgraded after the trial period for the vector tables. New functions were added to minimize cost. 
       
