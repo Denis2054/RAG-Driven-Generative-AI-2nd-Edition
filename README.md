@@ -92,11 +92,6 @@ Designed for developers and architects, these blueprints transform disconnected 
 | <ul><li>The_Autonomous_Database_Architect.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter12/The_Autonomous_Database_Architect.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter12/The_Autonomous_Database_Architect.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/Chapter12/The_Autonomous_Database_Architect.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
 | **The Oracle DBA Console** | | | |
 | <ul><li>Oracle_DBA_Console.ipynb</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/commons/Oracle_DBA_Console.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> 
-
-
-
-
-
 </details>
 
 
@@ -135,7 +130,7 @@ Sorbonne University, where he registered an early patent for word tokenization a
 followed by a patent for a conversational human–machine system. Since then, he has created
 pioneering AI applications ranging from cognitive NLP chatbots for language learning to
 aerospace AI solutions, global supply chain optimizers, and advanced planning and scheduling
-systems used worldwide.
+systems used worldwide.    
 An early advocate of explainable AI, Denis has consistently built interpretable interfaces and
 explanation data into complex projects across aerospace, apparel, and automotive industries.
 His belief that knowledge is only complete when it is shared has led him to author multiple
