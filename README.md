@@ -2,12 +2,15 @@
 ## WILL BE AVAILABLE 09 APRIL 2026 AT 13:00 GMT
 <h1 align="center">
 RAG-Driven Generative AI, Second Edition</h1>
-<p align="center">This is the code repository for <a href ="rag-driven-generative-ai-second-edition"> RAG-Driven Generative AI, Second Edition</a>, published by Packt.
-</p>
 
 <h2 align="center">
-Build MAS-RAG with DualRAG, GraphRAG, multimodal video pipelines, and Oracle Database 23ai
+Build MAS-RAG with DualRAG, GraphRAG,<br>
+multimodal video pipelines, and Oracle Database 23ai
 </h2>
+
+<p align="center">This is the code repository for <a href="rag-driven-generative-ai-second-edition">RAG-Driven Generative AI, Second Edition</a>.</p>
+
+
 <p align="center">
 Denis Rothman</p>
 
@@ -22,32 +25,41 @@ Denis Rothman</p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <details open>
-  <summary><h2>About the book</summary>
+  <summary><h2>About the book</h2></summary>
 <a href="https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200901">
 <img src="https://content.packt.com/B37714/cover_image_small.jpg" alt="RAG-Driven Generative AI, Second Edition" height="256px" align="right">
 </a>
 
-Enterprise AI systems often rely on moving sensitive data into external platforms, creating challenges around fragmentation, latency, and security. This edition defines an architectural shift by bringing AI closer to the enterprise data using Oracle Database 23ai as a converged engine.
+The era of extracting sensitive enterprise data to external AI platforms is under fire. This second edition defines a revolutionary architectural shift — bringing the AI to the data — and shows you how to build Sovereign AI systems that keep your most critical assets secure and governed within Oracle Database 23ai's converged engine, eliminating the fragmentation, latency, and security risks inherent in traditional data extraction.
 
-You will learn how to design Retrieval-Augmented Generation systems that operate directly on structured and unstructured data. Through the implementation of DualRAG, the book demonstrates how to synchronize unstructured vector semantics with the deterministic truth of structured SQL, graph, and spatial retrieval, enabling systems to reason over verified corporate facts rather than probabilistic guesses. You’ll move beyond simple pipelines to build MAS-RAG (multi-agent systems for RAG) that coordinate autonomous agents across hybrid retrieval workflows, multimodal video pipelines, and graph-based knowledge structures.
+At the core of this edition is **Dual RAG**, the definitive methodology for defeating hallucinations and data poisoning simultaneously. By synchronizing unstructured vector semantics with the deterministic truth of structured SQL, Graph, and Spatial retrieval, your agents reason over verified corporate facts rather than probabilistic guesses. From there, you will move beyond simple pipelines to master **MAS-RAG** (multi-agent systems for RAG): a Universal Context Engine with a Planner, an Agent Registry, and sovereign Oracle agents coordinating across hybrid retrieval workflows, Hybrid Adaptive RAG feedback loops, and multimodal video pipelines.
 
-Designed for developers and architects, these blueprints transform disconnected data silos into a unified engine to architect autonomous enterprise intelligence that scales with RLHF and model fine-tuning. By the end of the book, you’ll be able to design and deploy enterprise AI systems that combine retrieval, reasoning, and structured data to build reliable generative AI applications.
+The final arc of the book transcends retrieval entirely. You will engineer a single converged hyper-query that fuses vector similarity, Oracle Spatial (SDO_GEOMETRY), and SQL Property Graphs (SQL/PGQ) without data movement, scale MAS-RAG workloads to millions of vectors using Oracle Exadata AI Smart Scan, and culminate by deploying an Autonomous Database Architect — an agent that perceives raw enterprise chaos and constructs its own governed relational structures on a Perceive–Plan–Act–Audit loop.
+
+Designed for enterprise AI architects and senior developers proficient in Python and LLM orchestration, this is an advanced architectural deep-dive with battle-tested blueprints for every stage of the Sovereign AI lifecycle.
+
+</details>
+
 
 *Email sign-up and proof of purchase required
-</details>
+
+
 <details open>
   <summary><h2>Key Learnings</h2></summary>
 <ul>
-<li>Architect Sovereign AI systems that bring intelligence directly to the data within Oracle Database 23ai, eliminating data extraction risk</li>
-<li>Implement Dual Path RAG — synchronising unstructured vector semantics with deterministic structured SQL to defeat hallucinations and data poisoning simultaneously</li>
-<li>Build MAS-RAG pipelines: a Universal Context Engine with Planner, Agent Registry, and MCP-standardised sovereign agents that replace external vector databases</li>
-<li>Engineer Hybrid Adaptive RAG — a dynamic inference-time router that switches between model reasoning, RAG retrieval, and expert human feedback injection based on cosine similarity scores and user rankings</li>
-<li>Construct a converged hyper-query that fuses vector similarity, Oracle Spatial (SDO_GEOMETRY), and SQL Property Graph (SQL/PGQ) traversal in a single execution context with zero data movement</li>
-<li>Build a multimodal video RAG pipeline with a version-controlled Schema Registry, RLHF-curated metadata, and semantic vector search over segmented visual assets</li>
-<li>Scale MAS-RAG workloads using Oracle Exadata AI Smart Scan to eliminate the data movement tax on high-dimensional vector distance calculations</li>
-<li>Deploy an Autonomous Database Architect agent operating on a Perceive–Plan–Act–Audit loop, capable of generating Oracle DDL and orchestrating ETL Workers from raw unstructured enterprise data</li>
+<li><b>Sovereign AI architecture:</b> bring intelligence directly to the data within Oracle Database 23ai, eliminating data extraction risk</li>
+<li><b>Dual Path RAG:</b> synchronise unstructured vector semantics with deterministic structured SQL to defeat hallucinations and data poisoning simultaneously</li>
+<li><b>MAS-RAG pipelines:</b> build a Universal Context Engine with Planner, Agent Registry, and MCP-standardised sovereign agents that replace external vector databases</li>
+<li><b>Hybrid Adaptive RAG:</b> engineer a dynamic inference-time router that switches between model reasoning, RAG retrieval, and expert human feedback injection based on cosine similarity scores and user rankings</li>
+<li><b>Converged hyper-query:</b> fuse vector similarity, Oracle Spatial (SDO_GEOMETRY), and SQL Property Graph (SQL/PGQ) traversal in a single execution context with zero data movement</li>
+<li><b>Multimodal video RAG:</b> build a pipeline with a version-controlled Schema Registry, RLHF-curated metadata, and semantic vector search over segmented visual assets</li>
+<li><b>RAGOps at scale:</b> leverage Oracle Exadata AI Smart Scan to eliminate the data movement tax on high-dimensional vector distance calculations</li>
+<li><b>Autonomous Database Architect:</b> deploy an agent on a Perceive–Plan–Act–Audit loop, capable of generating Oracle DDL and orchestrating ETL Workers from raw unstructured enterprise data</li>
 </ul>
 </details>
+
+
+I also tightened "Scale MAS-RAG workloads using..." to **RAGOps at scale:** to keep the label/description pattern consistent with the others — let me know if you prefer the original phrasing.
 
 <details open>
   <summary><h2>Chapters</summary>
