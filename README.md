@@ -100,30 +100,39 @@ The Oracle DBA Console serves as the Control Center for the Oracle 23ai Hybrid V
 <details open>
 <summary><h2>Requirements for this book</h2></summary>
 
-## Technical Requirements
+Before running the code, ensure your development environment is properly configured.
 
-To get the most out of this book, ensure you have the following background and setup:
+- **Python:** Version 3.10+  
+- **Environment Options:** Google Colab, Kaggle, or Local
 
-### Knowledge Requirements
+</details>
+
+<details open>
+   <summary><h2>Knowledge Requirements</h2></summary>
+    
 - Proficiency in **Python**
 - Working knowledge of **SQL** and **REST APIs**
 - Foundational understanding of **LLM orchestration**
 - Ability to navigate **cloud consoles**
 - Comfort with **notebook-based workflows** for implementing multi-agent systems
+</details>
 
-### Software & Platform Requirements
+<details open>
+<summary><h2>Software & Platform Requirements</h2></summary>
 - Access to a **Google Colab** environment
 - An **Oracle Cloud Free Tier** account to provision an **Autonomous Database 23ai** instance
 - An **OpenAI API key** for powering reasoning engines and fine-tuning pipelines
+</details>
 
-### Hardware Requirements
+<details open>
+<summary><h2>Hardware Requirements</h2></summary>
 - A system capable of running a modern web browser smoothly
 - Stable internet connection for cloud-based development and API usage
   </details>
 
 
 
-<details>
+<details open>
 <summary><h2>Get to know the Author</h2></summary>
 
 *Denis Rothman* has been designing and deploying AI systems for more than three decades.
@@ -143,7 +152,8 @@ with and build upon
 
 
 </details>
-<details>
+
+<details open>
   <summary><h2>Other Related Books</h2></summary>
 <ul>
 
