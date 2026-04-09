@@ -6,7 +6,7 @@ multimodal video pipelines, and Oracle Database 23ai
 </h2>
 
 <br clear="left"/>
-<p align="left">Copyright 2025-2026, Denis Rothman. <strong>Last updated: March 14, 2026</strong></p>
+<p align="left">Copyright 2025-2026, Denis Rothman. <strong>Last updated: April 9, 2026</strong></p>
 <p align="left">See the <a href="./CHANGELOG.md">Changelog</a> for updates, fixes, and upgrades(past, present, coming).</p>
 
 <p align="left">
