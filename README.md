@@ -27,7 +27,7 @@ multimodal video pipelines, and Oracle Database 23ai
 <img src="https://content.packt.com/B37714/cover_image_small.jpg" alt="RAG-Driven Generative AI, Second Edition" height="256px" align="right">
 </a>
 
-The era of extracting sensitive enterprise data to external AI platforms is under fire. This second edition defines a **revolutionary architectural shift ** that brings AI to the data.** The book shows you how to build Sovereign AI systems that keep your most critical assets secure and governed within Oracle Database 23ai's converged engine, eliminating the fragmentation, latency, and security risks inherent in traditional data extraction.
+The era of extracting sensitive enterprise data to external AI platforms is under fire. This second edition defines a **revolutionary architectural shift that brings AI to the data.** The book shows you how to build Sovereign AI systems that keep your most critical assets secure and governed within Oracle Database 23ai's converged engine, eliminating the fragmentation, latency, and security risks inherent in traditional data extraction.
 
 At the core of this edition is **Dual RAG**, the definitive methodology for defeating hallucinations and data poisoning simultaneously. By synchronizing unstructured vector semantics with the deterministic truth of structured SQL, Graph, and Spatial retrieval, your agents reason over verified corporate facts rather than probabilistic guesses. From there, you will move beyond simple pipelines to master **MAS-RAG** (multi-agent systems for RAG): a Universal Context Engine with a Planner, an Agent Registry, and sovereign Oracle agents coordinating across hybrid retrieval workflows, Hybrid Adaptive RAG feedback loops, and multimodal video pipelines.
 
