@@ -1,4 +1,4 @@
-RAG-Driven Generative AI, Second Edition</h1>
+# RAG-Driven Generative AI, Second Edition</h1>
 
 <h2 align="left">
 Build MAS-RAG with DualRAG, GraphRAG,<br>
