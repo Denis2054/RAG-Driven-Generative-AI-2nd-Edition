@@ -116,11 +116,14 @@ Before running the code, ensure your development environment is properly configu
 </details>
 
 <details open>
-<summary><h2>Software & Platform Requirements</h2></summary>
-- Access to a **Google Colab** environment
-- An **Oracle Cloud Free Tier** account to provision an **Autonomous Database 23ai** instance
-- An **OpenAI API key** for powering reasoning engines and fine-tuning pipelines
+<summary><strong>Software & Platform Requirements</strong></summary>
+
+- Access to a **Google Colab** environment  
+- An **Oracle Cloud Free Tier** account to provision an **Autonomous Database 23ai** instance  
+- An **OpenAI API key** for powering reasoning engines and fine‑tuning pipelines  
+
 </details>
+
 
 <details open>
 <summary><h2>Hardware Requirements</h2></summary>
