@@ -3,8 +3,9 @@
 ## Build MAS-RAG with DualRAG, GraphRAG, multimodal video pipelines on Oracle AI Database 26ai (Oracle Database 23ai)
 
   
+Copyright 2025-2026, Denis Rothman.  
 
-Copyright 2025-2026, Denis Rothman. **Last updated: May 6, 2026**
+**Last updated: May 6, 2026**
 
 See the [Changelog](https://github.com/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/CHANGELOG.md) for updates, fixes, and upgrades (past, present, coming).
 
