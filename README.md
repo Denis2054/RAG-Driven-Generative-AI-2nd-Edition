@@ -8,8 +8,6 @@ Copyright 2025-2026, Denis Rothman. **Last updated: May 6, 2026**
 
 See the [Changelog](https://github.com/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/CHANGELOG.md) for updates, fixes, and upgrades (past, present, coming).
 
-[![](https://camo.githubusercontent.com/94886438f85c18f7d6e7ee767f90eb7d554e671f156ee8fb5eeef55d3836e28d/68747470733a2f2f636c69706c792e636f2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f3337323130383633305f444953434f52445f4c4f474f5f3430302e676966)](https://packt.link/I1tSU "Learn more on the Discord server")
-
 ## About the book
 
 [![RAG-Driven Generative AI, Second Edition](https://camo.githubusercontent.com/e531a423a74f926309487643292f34ac5314e8d2fb78371cfce182d5a1ff340c/68747470733a2f2f636f6e74656e742e7061636b742e636f6d2f4233373731342f636f7665725f696d6167655f736d616c6c2e6a7067)](https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200901)
