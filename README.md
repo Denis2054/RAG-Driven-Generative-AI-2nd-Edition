@@ -26,7 +26,7 @@ Designed for enterprise AI architects and senior developers proficient in Python
 
 Oracle consolidated its AI-related database capabilities under the marketing umbrella **Oracle AI Database 26ai** in October 2025, with on-prem general availability in January 2026. The underlying database product is **Oracle Database 23ai**, internal version 23.x. The two names refer to the same engine: vector search, hybrid SQL + vector queries, SQL Property Graphs, Spatial, and the in-database AI capabilities this book builds on.
 
-This second edition was written and finalized for April 2026 publication, covering the complete feature set under the original product name. No code in this repository requires updating for the rename — the SQL syntax, the `oracledb` Python driver, the SQL Property Graph operators, and the Spatial functions all continue to work as documented. Readers using **Oracle AI Database 26ai** can run every notebook in this repository without modification.
+No code in this repository requires updating for the rename — the SQL syntax, the `oracledb` Python driver, the SQL Property Graph operators, and the Spatial functions all continue to work as documented. Readers using **Oracle AI Database 26ai** can run every notebook in this repository without modification.
 
 
 ## Key Learnings
