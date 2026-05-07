@@ -92,7 +92,7 @@ To get the most out of this book, ensure you have the following background and s
 ### Software & Platform Requirements
 
 * Access to a **Google Colab** environment
-* An **Oracle Cloud Free Tier** account to provision an **Autonomous Database 23ai** instance (provisioned through the Oracle AI Database 26ai console)
+* An **Oracle Cloud Free Tier** account to provision an **Autonomous Database 23ai** instance provisioned through the Oracle AI Database 26ai console.
 * An **OpenAI API key** for powering reasoning engines and fine-tuning pipelines
 
 ### Hardware Requirements
