@@ -14,9 +14,15 @@ See the [Changelog](https://github.com/Denis2054/RAG-Driven-Generative-AI-2nd-Ed
 
 The era of extracting sensitive enterprise data to external AI platforms is under fire. This second edition defines a revolutionary architectural shift: **bringing the AI to the data**. This repository shows you how to build Sovereign AI systems that keep your most critical assets secure and governed within Oracle's converged engine, eliminating the fragmentation, latency, and security risks inherent in traditional data extraction. *The repository implements Oracle AI Database 26ai, powered by the Oracle Database 23ai engine, and opens the door to other AI‑to‑data databases such as SQL Server or any database you are integrating.*
 
-<a href="https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200901">
-  <img src="https://camo.githubusercontent.com/e531a423a74f926309487643292f34ac5314e8d2fb78371cfce182d5a1ff340c/68747470733a2f2f636f6e74656e742e7061636b742e636f6d2f4233373731342f636f7665725f696d6167655f736d616c6c2e6a7067" alt="RAG-Driven Generative AI, Second Edition" align="left" width="220" hspace="20" vspace="10">
-</a>
+<p align="center">
+  <a href="https://github.com/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/commons/ai2data.svg">
+    <img src="https://github.com/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/raw/main/commons/ai2data.svg" alt="Sovereign AI Architecture" width="800">
+  </a>
+</p>
+
+**Dual RAG** is the definitive methodology for defeating hallucinations and data poisoning simultaneously. By synchronizing unstructured vector semantics with the deterministic truth of structured SQL, Graph, and Spatial retrieval, your agents reason over verified corporate facts rather than probabilistic guesses. From there, you will move beyond simple pipelines to master **MAS-RAG** (multi-agent systems for RAG): a **Universal Context Engine** with a Planner, an Agent Registry, and sovereign Oracle agents coordinating across hybrid retrieval workflows, Hybrid Adaptive RAG feedback loops, and multimodal video pipelines.
+
+You will engineer a single converged hyper-query that fuses vector similarity, Oracle Spatial (SDO_GEOMETRY), and SQL Property Graphs (SQL/PGQ) without data movement, scale MAS-RAG workloads to millions of vectors using Oracle Exadata AI Smart Scan, and culminate by deploying an **Autonomous Database Architect** — an agent that constructs its own governed relational structures.
 
 
 
@@ -28,16 +34,29 @@ You will engineer a single converged hyper-query that fuses vector similarity, O
 
 ## What’s New
 
-* **Sovereign AI architecture:** bring intelligence directly to the data within  Oracle AI Database 26ai (database engine: Oracle Database 23ai), eliminating data extraction risk
-* **Dual Path RAG:** synchronise unstructured vector semantics with deterministic structured SQL to defeat hallucinations and data poisoning simultaneously
-* **MAS-RAG pipelines:** build a Universal Context Engine with Planner, Agent Registry, and MCP-standardised sovereign agents that replace external vector databases
-* **Hybrid Adaptive RAG:** engineer a dynamic inference-time router that switches between model reasoning, RAG retrieval, and expert human feedback injection based on cosine similarity scores and user rankings
-* **Converged hyper-query:** fuse vector similarity, Oracle Spatial (SDO_GEOMETRY), and SQL Property Graph (SQL/PGQ) traversal in a single execution context with zero data movement
-* **Multimodal video RAG:** build a pipeline with a version-controlled Schema Registry, RLHF-curated metadata, and semantic vector search over segmented visual assets
-* **RAGOps at scale:** leverage Oracle Exadata AI Smart Scan to eliminate the data movement tax on high-dimensional vector distance calculations
-* **Autonomous Database Architect:** deploy an agent on a Perceive–Plan–Act–Audit loop, capable of generating Oracle DDL and orchestrating ETL Workers from raw unstructured enterprise data
+<table>
+  <tr>
+    <td width="250" valign="top">
+      <a href="https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200901">
+        <img src="https://camo.githubusercontent.com/e531a423a74f926309487643292f34ac5314e8d2fb78371cfce182d5a1ff340c/68747470733a2f2f636f6e74656e742e7061636b742e636f6d2f4233373731342f636f7665725f696d6167655f736d616c6c2e6a7067" alt="RAG-Driven Generative AI, Second Edition" width="220">
+      </a>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Sovereign AI architecture:</b> bring intelligence directly to the data within Oracle AI Database 26ai (database engine: Oracle Database 23ai), eliminating data extraction risk</li>
+        <li><b>Dual Path RAG:</b> synchronise unstructured vector semantics with deterministic structured SQL to defeat hallucinations and data poisoning simultaneously</li>
+        <li><b>MAS-RAG pipelines:</b> build a Universal Context Engine with Planner, Agent Registry, and MCP-standardised sovereign agents that replace external vector databases</li>
+        <li><b>Hybrid Adaptive RAG:</b> engineer a dynamic inference-time router that switches between model reasoning, RAG retrieval, and expert human feedback injection based on cosine similarity scores and user rankings</li>
+        <li><b>Converged hyper-query:</b> fuse vector similarity, Oracle Spatial (SDO_GEOMETRY), and SQL Property Graph (SQL/PGQ) traversal in a single execution context with zero data movement</li>
+        <li><b>Multimodal video RAG:</b> build a pipeline with a version-controlled Schema Registry, RLHF-curated metadata, and semantic vector search over segmented visual assets</li>
+        <li><b>RAGOps at scale:</b> leverage Oracle Exadata AI Smart Scan to eliminate the data movement tax on high-dimensional vector distance calculations</li>
+        <li><b>Autonomous Database Architect:</b> deploy an agent on a Perceive–Plan–Act–Audit loop, capable of generating Oracle DDL and orchestrating ETL Workers from raw unstructured enterprise data</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## Chapters
+## Interactive Notebooks for Every Chapter 
 
 | Chapters | Colab | Kaggle | Studio Lab |
 | --- | --- | --- | --- |
