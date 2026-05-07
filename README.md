@@ -20,9 +20,9 @@ The era of extracting sensitive enterprise data to external AI platforms is unde
 
 
 
-At the core of this edition is **Dual RAG**, the definitive methodology for defeating hallucinations and data poisoning simultaneously. By synchronizing unstructured vector semantics with the deterministic truth of structured SQL, Graph, and Spatial retrieval, your agents reason over verified corporate facts rather than probabilistic guesses. From there, you will move beyond simple pipelines to master **MAS-RAG** (multi-agent systems for RAG): a Universal Context Engine with a Planner, an Agent Registry, and sovereign Oracle agents coordinating across hybrid retrieval workflows, Hybrid Adaptive RAG feedback loops, and multimodal video pipelines.
+**Dual RAG** is the definitive methodology for defeating hallucinations and data poisoning simultaneously. By synchronizing unstructured vector semantics with the deterministic truth of structured SQL, Graph, and Spatial retrieval, your agents reason over verified corporate facts rather than probabilistic guesses. From there, you will move beyond simple pipelines to master **MAS-RAG** (multi-agent systems for RAG): a **Universal Context Engine** with a Planner, an Agent Registry, and sovereign Oracle agents coordinating across hybrid retrieval workflows, Hybrid Adaptive RAG feedback loops, and multimodal video pipelines.
 
-The final arc of the book transcends retrieval entirely. You will engineer a single converged hyper-query that fuses vector similarity, Oracle Spatial (SDO_GEOMETRY), and SQL Property Graphs (SQL/PGQ) without data movement, scale MAS-RAG workloads to millions of vectors using Oracle Exadata AI Smart Scan, and culminate by deploying an **Autonomous Database Architect** — an agent that perceives raw enterprise chaos and constructs its own governed relational structures on a Perceive–Plan–Act–Audit loop.
+You will engineer a single converged hyper-query that fuses vector similarity, Oracle Spatial (SDO_GEOMETRY), and SQL Property Graphs (SQL/PGQ) without data movement, scale MAS-RAG workloads to millions of vectors using Oracle Exadata AI Smart Scan, and culminate by deploying an **Autonomous Database Architect** — an agent that constructs its own governed relational structures. 
 <br clear="left">
 
 
