@@ -28,7 +28,7 @@ You will engineer a single converged hyper-query that fuses vector similarity, O
 
 ## Key Learnings
 
-* **Sovereign AI architecture:** bring intelligence directly to the data within Oracle Database 23ai, eliminating data extraction risk
+* **Sovereign AI architecture:** bring intelligence directly to the data within  Oracle AI Database 26ai (database engine: Oracle Database 23ai), eliminating data extraction risk
 * **Dual Path RAG:** synchronise unstructured vector semantics with deterministic structured SQL to defeat hallucinations and data poisoning simultaneously
 * **MAS-RAG pipelines:** build a Universal Context Engine with Planner, Agent Registry, and MCP-standardised sovereign agents that replace external vector databases
 * **Hybrid Adaptive RAG:** engineer a dynamic inference-time router that switches between model reasoning, RAG retrieval, and expert human feedback injection based on cosine similarity scores and user rankings
