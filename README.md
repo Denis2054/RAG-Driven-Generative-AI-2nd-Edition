@@ -1,6 +1,6 @@
 # RAG-Driven Generative AI, Second Edition
 
-## Build MAS-RAG with DualRAG, GraphRAG, multimodal video pipelines on Oracle AI Database 26ai (Oracle Database 23ai)
+## Build MAS-RAG with DualRAG, GraphRAG, and multimodal video pipelines on Oracle AI Database 26ai (database engine: Oracle Database 23ai)
 
   
 Copyright 2025-2026, Denis Rothman.  
@@ -9,24 +9,21 @@ Copyright 2025-2026, Denis Rothman.
 
 See the [Changelog](https://github.com/Denis2054/RAG-Driven-Generative-AI-2nd-Edition/blob/main/CHANGELOG.md) for updates, fixes, and upgrades (past, present, coming).
 
-## About the book
 
-[![RAG-Driven Generative AI, Second Edition](https://camo.githubusercontent.com/e531a423a74f926309487643292f34ac5314e8d2fb78371cfce182d5a1ff340c/68747470733a2f2f636f6e74656e742e7061636b742e636f6d2f4233373731342f636f7665725f696d6167655f736d616c6c2e6a7067)](https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200901)
+## Bringing AI to the data
 
-The era of extracting sensitive enterprise data to external AI platforms is under fire. This second edition defines a revolutionary architectural shift — bringing the AI to the data — and shows you how to build Sovereign AI systems that keep your most critical assets secure and governed within Oracle's converged engine, eliminating the fragmentation, latency, and security risks inherent in traditional data extraction. The book covers Oracle Database 23ai, the database engine that Oracle now markets under the consolidated **Oracle AI Database 26ai** umbrella as of October 2025.
+The era of extracting sensitive enterprise data to external AI platforms is under fire. This second edition defines a revolutionary architectural shift: **bringing the AI to the data**. This repository shows you how to build Sovereign AI systems that keep your most critical assets secure and governed within Oracle's converged engine, eliminating the fragmentation, latency, and security risks inherent in traditional data extraction. *The repository implements Oracle AI Database 26ai, powered by the Oracle Database 23ai engine, and opens the door to other AI‑to‑data databases such as SQL Server or any database you are integrating.*
+
+<a href="https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200901">
+  <img src="https://camo.githubusercontent.com/e531a423a74f926309487643292f34ac5314e8d2fb78371cfce182d5a1ff340c/68747470733a2f2f636f6e74656e742e7061636b742e636f6d2f4233373731342f636f7665725f696d6167655f736d616c6c2e6a7067" alt="RAG-Driven Generative AI, Second Edition" align="left" width="220" hspace="20" vspace="10">
+</a>
+
+
 
 At the core of this edition is **Dual RAG**, the definitive methodology for defeating hallucinations and data poisoning simultaneously. By synchronizing unstructured vector semantics with the deterministic truth of structured SQL, Graph, and Spatial retrieval, your agents reason over verified corporate facts rather than probabilistic guesses. From there, you will move beyond simple pipelines to master **MAS-RAG** (multi-agent systems for RAG): a Universal Context Engine with a Planner, an Agent Registry, and sovereign Oracle agents coordinating across hybrid retrieval workflows, Hybrid Adaptive RAG feedback loops, and multimodal video pipelines.
 
 The final arc of the book transcends retrieval entirely. You will engineer a single converged hyper-query that fuses vector similarity, Oracle Spatial (SDO_GEOMETRY), and SQL Property Graphs (SQL/PGQ) without data movement, scale MAS-RAG workloads to millions of vectors using Oracle Exadata AI Smart Scan, and culminate by deploying an **Autonomous Database Architect** — an agent that perceives raw enterprise chaos and constructs its own governed relational structures on a Perceive–Plan–Act–Audit loop.
-
-Designed for enterprise AI architects and senior developers proficient in Python and LLM orchestration, this is an advanced architectural deep-dive with battle-tested blueprints for every stage of the Sovereign AI lifecycle.
-
-
-## A note on Oracle's product naming
-
-Oracle consolidated its AI-related database capabilities under the marketing umbrella **Oracle AI Database 26ai** in October 2025, with on-prem general availability in January 2026. The underlying database product is **Oracle Database 23ai**, internal version 23.x. The two names refer to the same engine: vector search, hybrid SQL + vector queries, SQL Property Graphs, Spatial, and the in-database AI capabilities this book builds on.
-
-No code in this repository requires updating for the rename — the SQL syntax, the `oracledb` Python driver, the SQL Property Graph operators, and the Spatial functions all continue to work as documented. Readers using **Oracle AI Database 26ai** can run every notebook in this repository without modification.
+<br clear="left">
 
 
 ## Key Learnings
@@ -39,8 +36,6 @@ No code in this repository requires updating for the rename — the SQL syntax, 
 * **Multimodal video RAG:** build a pipeline with a version-controlled Schema Registry, RLHF-curated metadata, and semantic vector search over segmented visual assets
 * **RAGOps at scale:** leverage Oracle Exadata AI Smart Scan to eliminate the data movement tax on high-dimensional vector distance calculations
 * **Autonomous Database Architect:** deploy an agent on a Perceive–Plan–Act–Audit loop, capable of generating Oracle DDL and orchestrating ETL Workers from raw unstructured enterprise data
-
-
 
 ## Chapters
 
