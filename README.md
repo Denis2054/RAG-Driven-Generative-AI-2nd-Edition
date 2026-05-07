@@ -26,7 +26,7 @@ You will engineer a single converged hyper-query that fuses vector similarity, O
 <br clear="left">
 
 
-## Key Learnings
+## What’s New
 
 * **Sovereign AI architecture:** bring intelligence directly to the data within  Oracle AI Database 26ai (database engine: Oracle Database 23ai), eliminating data extraction risk
 * **Dual Path RAG:** synchronise unstructured vector semantics with deterministic structured SQL to defeat hallucinations and data poisoning simultaneously
