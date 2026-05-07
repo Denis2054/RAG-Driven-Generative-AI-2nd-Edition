@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 500" width="100%" height="100%">
+  <defs>
+    <style>
+      .title { font-family: system-ui, -apple-system, sans-serif; font-size: 18px; font-weight: bold; }
+      .subtitle { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; font-weight: 500; }
+      .body-text { font-family: system-ui, -apple-system, sans-serif; font-size: 13px; }
+      .bold-text { font-family: system-ui, -apple-system, sans-serif; font-size: 13px; font-weight: bold; }
+      .small-text { font-family: system-ui, -apple-system, sans-serif; font-size: 11px; }
+      
+      .box-traditional { fill: #FAFAFA; stroke: #D1D5DB; stroke-width: 2px; rx: 8px; }
+      .box-sovereign { fill: #F0FDF4; stroke: #22C55E; stroke-width: 2.5px; rx: 12px; }
+      .box-inner { fill: #FFFFFF; stroke: #94A3B8; stroke-width: 1.5px; rx: 6px; }
+      .box-highlight { fill: #EFF6FF; stroke: #3B82F6; stroke-width: 2px; rx: 6px; }
+      
+      .text-red { fill: #DC2626; }
+      .text-green { fill: #16A34A; }
+      .text-blue { fill: #2563EB; }
+      .text-dark { fill: #1F2937; }
+    </style>
+    
+    <!-- Red Arrowhead -->
+    <marker id="arrowHeadRed" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#DC2626" />
+    </marker>
+    
+    <!-- Blue Arrowhead -->
+    <marker id="arrowHeadBlue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#3B82F6" />
+    </marker>
+    
+    <!-- Green Arrowhead -->
+    <marker id="arrowHeadGreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#16A34A" />
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="950" height="500" fill="#FFFFFF" rx="16" />
+
+  <!-- Divider Line -->
+  <line x1="430" y1="80" x2="430" y2="440" stroke="#E5E7EB" stroke-width="2" stroke-dasharray="6,6" />
+
+  <!-- ========================================== -->
+  <!-- LEFT SIDE: TRADITIONAL ARCHITECTURE        -->
+  <!-- ========================================== -->
+  
+  <text x="230" y="50" class="title text-red" text-anchor="middle">THE OLD PARADIGM</text>
+  <text x="230" y="70" class="subtitle text-dark" text-anchor="middle">Extracting Data to External AI</text>
+
+  <!-- External AI Platform Box -->
+  <rect x="50" y="110" width="340" height="90" class="box-traditional" />
+  <text x="220" y="140" class="bold-text text-dark" text-anchor="middle">External AI Platforms &amp; Vector DBs</text>
+  <text x="220" y="160" class="body-text text-dark" text-anchor="middle">Probabilistic Guesses / LLM Cloud</text>
+  <text x="220" y="180" class="body-text text-dark" text-anchor="middle">Fragmented Vector Indices</text>
+
+  <!-- Arrow pointing up (Extraction) -->
+  <line x1="220" y1="300" x2="220" y2="215" stroke="#DC2626" stroke-width="3" stroke-dasharray="5,5" marker-end="url(#arrowHeadRed)" />
+  <text x="235" y="260" class="body-text text-red font-weight-bold">Data Extraction &amp; Pipelines</text>
+
+  <!-- Enterprise Database Box -->
+  <rect x="50" y="300" width="340" height="70" class="box-traditional" />
+  <text x="220" y="330" class="bold-text text-dark" text-anchor="middle">Enterprise Database</text>
+  <text x="220" y="350" class="body-text text-dark" text-anchor="middle">Sensitive Structured Assets</text>
+
+  <!-- Warning Labels -->
+  <text x="50" y="405" class="body-text text-red">❌ Security &amp; Compliance Risks</text>
+  <text x="50" y="425" class="body-text text-red">❌ Latency &amp; Data Synchronization Tax</text>
+  <text x="50" y="445" class="body-text text-red">❌ Hallucinations &amp; Data Poisoning</text>
+
+
+  <!-- ========================================== -->
+  <!-- RIGHT SIDE: SOVEREIGN AI ARCHITECTURE      -->
+  <!-- ========================================== -->
+
+  <text x="690" y="50" class="title text-green" text-anchor="middle">THE REVOLUTION</text>
+  <text x="690" y="70" class="subtitle text-dark" text-anchor="middle">Bringing AI to the Data (Sovereign AI)</text>
+
+  <!-- Big Oracle Database Box -->
+  <rect x="470" y="100" width="440" height="280" class="box-sovereign" />
+  <text x="690" y="125" class="bold-text text-green" text-anchor="middle">Oracle AI Database 26ai (23ai Engine)</text>
+
+  <!-- MAS-RAG Universal Context Engine Box -->
+  <rect x="495" y="145" width="390" height="85" class="box-highlight" />
+  <text x="690" y="165" class="bold-text text-blue" text-anchor="middle">MAS-RAG: Universal Context Engine</text>
+  <text x="690" y="185" class="body-text text-dark" text-anchor="middle">Autonomous Database Architect &amp; Agent Registry</text>
+  <text x="690" y="205" class="body-text text-dark" text-anchor="middle">Hybrid Adaptive RAG Planner</text>
+
+  <!-- Converged Database Box -->
+  <rect x="495" y="260" width="390" height="100" class="box-inner" />
+  <text x="690" y="285" class="bold-text text-dark" text-anchor="middle">Converged Data Engine (Single Hyper-Query)</text>
+  
+  <rect x="510" y="300" width="85" height="40" class="box-inner" />
+  <text x="552" y="325" class="small-text text-dark" text-anchor="middle">Unstructured</text>
+  <text x="552" y="337" class="small-text text-dark" text-anchor="middle">(Vectors)</text>
+
+  <rect x="605" y="300" width="85" height="40" class="box-inner" />
+  <text x="647" y="325" class="small-text text-dark" text-anchor="middle">Structured</text>
+  <text x="647" y="337" class="small-text text-dark" text-anchor="middle">(SQL)</text>
+
+  <rect x="700" y="300" width="85" height="40" class="box-inner" />
+  <text x="742" y="325" class="small-text text-dark" text-anchor="middle">Relational</text>
+  <text x="742" y="337" class="small-text text-dark" text-anchor="middle">Graph (PGQ)</text>
+
+  <rect x="795" y="300" width="85" height="40" class="box-inner" />
+  <text x="837" y="325" class="small-text text-dark" text-anchor="middle">Spatial</text>
+  <text x="837" y="337" class="small-text text-dark" text-anchor="middle">(Geometry)</text>
+
+  <!-- Internal Cycle Arrows -->
+  <path d="M 670 235 L 670 245 L 670 250" stroke="#3B82F6" stroke-width="3" marker-end="url(#arrowHeadBlue)" fill="none" />
+  <path d="M 710 255 L 710 245 L 710 238" stroke="#16A34A" stroke-width="3" marker-end="url(#arrowHeadGreen)" fill="none" />
+  <text x="600" y="247" class="small-text text-blue" text-anchor="middle">Dual Path /</text>
+  <text x="780" y="247" class="small-text text-green" text-anchor="middle">GraphRAG</text>
+
+  <!-- Success Labels -->
+  <text x="470" y="405" class="body-text text-green">✅ Zero Data Movement (Governed Assets Stay Secure)</text>
+  <text x="470" y="425" class="body-text text-green">✅ Oracle Exadata AI Smart Scan (Eliminates Network Tax)</text>
+  <text x="470" y="445" class="body-text text-green">✅ DualRAG (Defeats Hallucinations via Deterministic Truth)</text>
+
+</svg>
